@@ -1,18 +1,11 @@
-.class-one {
-    font-family:"Verdana", "DejaVu Sans", sans-serif;
-    background-color: #E69789;
-
-  
+.one {
+    background-color: black;
+    color: white;
 }
-#one-id {
-    color: blue;
-    font-size: 36px;
+.two {
+background-color: yellow;
 }
-.other-class {
-    font-size: 24px;
-}
-#another-id {
-    background-color: #88FF7D;
-    font-weight: bold;
-    font-size: 24px;
+.one,.two{
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
 }
